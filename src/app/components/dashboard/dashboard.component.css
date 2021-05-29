@@ -1,0 +1,60 @@
+.card2{
+	box-shadow: 0px 0px 5px #888888;
+}
+
+.text-red{
+	color: red;
+}
+
+.mt-neg-5{
+	margin-top: -8px;
+}
+
+.pos-cent {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.example-action-buttons {
+  padding-bottom: 20px;
+}
+
+.example-headers-align .mat-expansion-panel-header-title,
+.example-headers-align .mat-expansion-panel-header-description {
+  flex-basis: 0;
+}
+
+.example-headers-align .mat-expansion-panel-header-description {
+  justify-content: space-between;
+  align-items: left;
+}
+
+
+
+.text1{
+	font-size: 15px;
+	margin-top: 1px;
+	color: red;
+}
+
+.example-section {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 60px;
+}
+
+.example-margin {
+  margin: 0 10px;
+}
+
+.scrollable{
+  max-height:400px;
+  max-width: 85%;
+  margin:auto;
+  overflow: auto;
+  box-sizing: border-box;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px  0px gray;
+}
