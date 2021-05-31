@@ -1,0 +1,9 @@
+.ct{
+	font-size: 35px;
+}
+
+@media screen and (max-width:500px) {
+	.ct {
+		font-size: 25px;
+	}
+}
